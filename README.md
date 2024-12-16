@@ -1,0 +1,2 @@
+# PrepyAI
+Setting up Git
